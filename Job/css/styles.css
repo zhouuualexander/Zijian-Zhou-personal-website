@@ -9,6 +9,7 @@ body {
     background-color: #262626;
     border-radius: 0;
     border:0;
+    margin-bottom: 0px;
 }
 .navbar-brand h1 { /*Name*/
   color: #FFFFFF;
@@ -56,19 +57,32 @@ body {
 /* END HEADER */
 /********** Large devices only **********/
 @media (min-width: 1200px) {
-
+  body{
+    padding-top:Srem;
+    background: url('../images/cali_1200.JPG') no-repeat;
+    background-size: cover;
+    height: 675px;
+  }
 }
 
 /********** Medium devices only **********/
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
-  
+  body{
+    background: url('../images/cali_992.JPG') no-repeat;
+    height: 558px;
+    background-size: cover;
+  }
   /* End Header */
 }
 
 /********** Small devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
-
+  body {
+    background: url('../images/cali_768.JPG') no-repeat;
+    height: 432px;
+    background-size: cover;
+  }
 }
 
 /********** Extra small devices only **********/
@@ -76,7 +90,8 @@ body {
   /* Header */
   .navbar-brand {
     padding-top: 10px;
-    height: 50px;
+    height: 60px;
+    
   }
   .navbar-brand h1 { /* Name */
     padding-top: 0px;
@@ -90,5 +105,5 @@ body {
     margin-right: 5px;
   }
   /* End Header */
-
+  /* Home Page */
 }
