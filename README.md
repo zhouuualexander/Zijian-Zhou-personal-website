@@ -1,7 +1,7 @@
 ## Welcome to my website
 https://zhouuualexander.github.io/Zijian-Zhou-personal-website/Job/my_resume.html
 ## Description
-This website is my personal first website<br>
+This website is my personal first website.<br>
 I learnt the website style from Coursera fullstack-course4 and edited some codes into my style.<br>
 I used Adobe Photoshop CC 2019 edit the homepage picture and it was taken by Ethan Zhou (my male elder cousin) in Hamilton.<br>
 The hours in website is arbitrary and the address is of the University of Alberta.<br>
@@ -14,6 +14,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Resource
-Codes are edited from Coursera<br>
+Codes are edited from Coursera.<br>
 https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/examples
 
