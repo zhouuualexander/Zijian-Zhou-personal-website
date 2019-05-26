@@ -91,7 +91,7 @@ body {
 /********** Large devices only **********/
 @media (min-width: 1200px) {
   .container .jumbotron {
-    background: url('../images/cali_1200.JPG') no-repeat;
+    background: url('../images/cali_1200.png') no-repeat;
     height: 675px;
   }
 }
@@ -103,7 +103,7 @@ body {
 
   /* Home Page */
   .container .jumbotron {
-    background: url('../images/cali_992.JPG') no-repeat;
+    background: url('../images/cali_992.png') no-repeat;
     height: 558px;
   }
   /* End Home Page */
@@ -112,7 +112,7 @@ body {
 @media (min-width: 768px) and (max-width: 991px) {
   /* Home Page */
   .container .jumbotron {
-    background: url('../images/cali_768.JPG') no-repeat;
+    background: url('../images/cali_768.png') no-repeat;
     height: 432px;
   }
   /* End Home Page */
