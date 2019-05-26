@@ -7,5 +7,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Resource
-Codes are edited from Coursera 
+Codes are edited from Coursera<br>
+https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/examples
 
